@@ -11,6 +11,6 @@ allprojects {
  step2.Add the dependency
 ```gradle
  dependencies {
-	        implementation 'com.github.SuHlaingHnin6:ToastLibrary:Tag'
+	        implementation 'com.github.SuHlaingHnin6:ToastLibrary:1.0.0'
 	}
  ```
